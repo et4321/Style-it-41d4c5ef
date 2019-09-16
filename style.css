@@ -1,0 +1,20 @@
+body{
+	background-color: green;
+
+	padding: 0em
+
+}
+
+.table {
+	background-color: lime;
+	border:1px solid green;
+	border-radius: 13px;
+	border-spacing: 0;
+	border-bottom: 1px solid green;
+	padding: 10px
+
+
+}
+
+
+
